@@ -2,7 +2,7 @@
 A todo list app
 
 
-### General steps to follow when creating a project
+### General steps to follow while creating a project
 
 - Thinking about the UI
 - Functionality
